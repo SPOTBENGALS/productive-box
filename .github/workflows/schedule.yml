@@ -12,5 +12,5 @@ jobs:
         uses: SPOTBENGALS/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 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
+          GIST_ID: 70e8183b6cd6eacebfb4ef2d439e9670
           TIMEZONE: Asia/Seoul
